@@ -1,0 +1,74 @@
+# Data set Information
+fear_greed_index dataset: 2644 rows, 4 columns
+historical_data dataset: 211224 rows, 16 columns
+
+Part A - Data preparation
+-------------------------
+
+# I Created this Key Metrics 
+
+1.Daily PnL per trader
+
+2.Average PnL per trade
+
+3.Total trading volume
+
+4.Number of trades per day
+
+5.Average trade size
+
+6.Win rate
+
+7.Win rate by sentiment
+
+8.PnL by market sentiment
+
+
+Part B - Analysis
+-----------------
+
+# I Created this Charts
+
+1.Average Pnl by Market Sentiment
+
+2.Trading Frequency by Sentiment
+
+3. Trade Size By Market Sentiment
+
+4.Leverage Distribution by Sentiment
+
+5.Long vs Short Trades by Sentiment
+
+6.Trader Performance Segments
+
+Part c - Actionable output
+--------------------------
+# Key Insights from the Analysis
+
+1. Higher Profitability During Extreme Greed Markets
+
+The analysis shows that traders achieve the highest average PnL during Extreme Greed market conditions. This suggests that when the market is strongly bullish, traders tend to benefit from momentum-driven price movements. In such environments, trend-following strategies appear to perform better as prices move consistently in one direction.
+
+2. Fear Markets Still Offer Trading Opportunities
+
+Interestingly, Fear sentiment periods also show relatively strong average profitability. This indicates that traders may take advantage of the higher volatility during these periods. Some traders might be buying the dip, while others might be shorting sudden market drops. Overall, Fear markets seem to create more trading opportunities due to increased price fluctuations.
+
+3. Neutral Markets Show Lower Profitability
+
+In contrast, Neutral sentiment periods show the lowest average trader profitability. These conditions likely represent markets with lower volatility and unclear direction, making it more difficult for traders to generate profits. Without strong trends or major price movements, trading opportunities become limited.
+
+# Strategy Recommendations (Actionable Insights)
+
+# Strategy 1: Momentum-Based Trading During Extreme Greed
+
+Since trader profitability is highest during Extreme Greed periods, traders can consider increasing their participation in the market when strong bullish sentiment is present. In such situations, momentum-based strategies may perform well.
+
+# Rule of thumb:
+During Extreme Greed market conditions, traders can increase position sizes or trade frequency moderately to capture strong upward trends.
+
+# Strategy 2: Risk-Controlled Trading During Fear Markets
+
+Fear-driven markets tend to create higher volatility, which can provide trading opportunities but also increases risk. Traders should approach these periods with caution while still taking advantage of price fluctuations.
+
+# Rule of thumb:
+During Fear market conditions, traders may reduce leverage or position sizes while focusing on short-term opportunities created by volatility.
